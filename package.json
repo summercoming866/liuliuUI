@@ -1,0 +1,23 @@
+{
+  "name": "liuliu",
+  "version": "0.0.1",
+  "description": "一个vue ui框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summercoming866/liuliuUI.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "summercoming866",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/summercoming866/liuliuUI/issues"
+  },
+  "homepage": "https://github.com/summercoming866/liuliuUI#readme"
+}
