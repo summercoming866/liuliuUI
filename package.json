@@ -21,6 +21,18 @@
   },
   "homepage": "https://github.com/summercoming866/liuliuUI#readme",
   "dependencies": {
-    "vue": "^2.6.12"
+    "chai-spies": "^1.0.0",
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "chai": "^4.3.4",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
